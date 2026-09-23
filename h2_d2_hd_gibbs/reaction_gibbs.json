@@ -9,5 +9,12 @@
     "HD": -1.1299718806108823
   },
   "delta_g_hartree": 0.00020801070429410373,
-  "delta_g_kj_mol": 0.5461320288242943
+  "delta_g_kj_mol": 0.5461320288242943,
+  "experimental_comparison": {
+    "source_equilibrium_constant_K_HD_at_298K": 3.26,
+    "experimental_delta_g_kj_mol_from_K": -2.9294509380561355,
+    "difference_kj_mol": 3.47558296688043,
+    "calculated_equilibrium_constant": 0.8022723192971214,
+    "source": "NIST hydrogen thermochemical compilation and Sandia/OSTI HDT standards summary"
+  }
 }
