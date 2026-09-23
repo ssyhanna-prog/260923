@@ -1,0 +1,13 @@
+{
+  "reaction": "H2 + D2 -> 2 HD",
+  "method": "RHF/6-31G(d)",
+  "temperature_K": 298.15,
+  "pressure_Pa": 100000.0,
+  "gibbs_free_energy_hartree": {
+    "H2": -1.127710083632371,
+    "D2": -1.1324416882936876,
+    "HD": -1.1299718806108823
+  },
+  "delta_g_hartree": 0.00020801070429410373,
+  "delta_g_kj_mol": 0.5461320288242943
+}
